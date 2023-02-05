@@ -1,2 +1,2 @@
-# SkySmartSchoolOnline
+# SkySmartSchoolOnline.github.io
 online school
